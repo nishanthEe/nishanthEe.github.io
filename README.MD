@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pre-final year **Electronics and Communication Engineering Student**
+- 🎓 final year **Electronics and Communication Engineering Student**
 - 🔷 Deeply interested in **VLSI Design, RTL Design & Digital Logic**
 - 💡 Exploring **Verilog / SystemVerilog, Synthesis & Static Timing Analysis**
 - 🧩 Passionate about designing **efficient digital circuits and microarchitecture**
