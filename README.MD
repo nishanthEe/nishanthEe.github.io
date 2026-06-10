@@ -11,7 +11,7 @@
 ## 🌐 Portfolio
 
 🔗 **Check out my portfolio:**
-👉 nishanthe.me
+👉 http:nishanthe.me
 
 ---
 
